@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Huc ades, hæc animo. Or A serious and (perhaps) seasonable advice, to the souldiery of the three nations of England, Scotland, and Ireland. By T.L. Esq;</title>
+            <author>T.L., Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88843</idno>
+            <idno type="STC">Wing L75</idno>
+            <idno type="STC">Thomason E980_3</idno>
+            <idno type="EEBO-CITATION">99863002</idno>
+            <idno type="PROQUEST">99863002</idno>
+            <idno type="VID">168556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Huc ades, hæc animo. Or A serious and (perhaps) seasonable advice, to the souldiery of the three nations of England, Scotland, and Ireland. By T.L. Esq;</title>
+                  <author>T.L., Esq.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, anno Domini, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168556:1" rendition="simple:additions"/>
+            <p>
+               <hi>Huc Ades, Haec Animo.</hi> OR A SERIOUS And (perhaps) Seaſonable Advice, To the SOULDIERY Of the Three NATIONS of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>T. L.</hi> Eſq;</p>
+            <p>
+               <hi>LONDON</hi> Printed, <hi>Anno Domini,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168556:2"/>
+            <pb n="1" facs="tcp:168556:2"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of a central crowned fleur-de-lis flanked by a crowned Tudor rose and a crowned Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>TO THE SOULDIERY.</head>
+            <opener>
+               <salute>Gentlemen, and my beloved Brethren.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot, nor ever ſhall I endeavour to hide or deprive of their due Praiſes, thoſe godly Lights which have ſhined amongſt you, in the Armies of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> who by their many ex<g ref="char:EOLhyphen"/>amples of Valour, Equity, Wiſedom, Magna<g ref="char:EOLhyphen"/>nimity, Dexterity, and other excellent Virtues, are beyond all parallel: But I muſt withal let you know, That to Judge of them ſoundly and aright, both you and I, and every particular man of the
+<pb n="2" facs="tcp:168556:3"/> three Nations, muſt fly to the Father of all Lights, who uſing theſe great and worthy Perſonages for the building, preſervation, or encreaſe of this Eſtate, hath enriched them with great and preci<g ref="char:EOLhyphen"/>ous Graces; that acknowledging him the Author as well of theſe Virtues, as of the happy ſucceſs of things manged by them; we all may learn to yeild him homage, for the preſervation, continu<g ref="char:EOLhyphen"/>ance, and encreaſe of this Common-wealth.</p>
+            <p>Suppoſe we then, that theſe former goodly Lights ſhould now appear, as ſo many terrible flaming Comets, or degenerate into ſuch ſparkling Fire<g ref="char:EOLhyphen"/>brands, as would in a moment fill theſe three Na<g ref="char:EOLhyphen"/>tions with inteſtine Flames, and unnatural Com<g ref="char:EOLhyphen"/>buſtions; Would not you who are the Souldiery of theſe three Nations, wiſely conſider with your ſelves, what you went about, before you would force the poor people of theſe Nations, to be<g ref="char:EOLhyphen"/>come freſh Fewel to ſuch Infernal Flames? and would you not hear Reaſon, and conſult with good Counſel and Advice, before you raſhly made your ſelves, the Inſtruments of ſuch lamen<g ref="char:EOLhyphen"/>table Effects which would ſhortly follow?</p>
+            <p>Let me tell you then, That hearing with grief of heart, the Diviſions which are noiſed abroad, and like to happen amongſt us, by occaſion of ſome of the great Officers of your Armies; I thought it high time to come forth, and to repreſent unto you the dargerous inconveniencies, which may happen by ſuch alccrations, which vvill fill each
+<pb n="3" facs="tcp:168556:3"/> Town with Confuſion, our Neighbour States with Scorn and Deriſion, and every other N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on with bad Examples: Therefore in the firſt place, I earneſtly deſire you all, That you would unanimouſly entreat, and humbly requeſt your Heads and Officers, to lay aſide all ſpleen and animoſity, and to be reconciled to their Heads and Governors: For you, all of you, ſufficient<g ref="char:EOLhyphen"/>ly know thoſe miſeries which do accompanie the Torrents of Inteſtine War and Diſſention.</p>
+            <p>Contemn not therefore this good Counſel; but receive it with the reſpect and reverence which is due to ſo great a Common-wealth; and with the ſame good will vvhich you have ſhewed at the firſt, ſo continue it unto the end.</p>
+            <p>All things are yet in good Eſtate, and may conti<g ref="char:EOLhyphen"/>nue ſo if you will; for, by the Grace of God, your Troubles are no ways come to irreconcilable Extremities. 'Tis too true, you are too much be<g ref="char:EOLhyphen"/>hinde with your pay; yet I hope you will not ſo far prefer your Profit before Reaſon, as to force your Magiſtrates, and fright their Miniſters and People, to ſubmit to your wills and pleaſures; ſeeing they are all of them reſolved (if you hold but your hands) to pay you all ſpeedily, and with their thankful acknowledgment of your good ſer<g ref="char:EOLhyphen"/>vices, further to honour and advance you. Per<g ref="char:EOLhyphen"/>ſwade therefore (if poſſible) your Officers and Commanders, to leave their conceived hatred and ſpleen, and to lay aſide their paſſions, and
+<pb n="4" facs="tcp:168556:4"/> with quiet ſpirits, to conſider of all inconvenien<g ref="char:EOLhyphen"/>cies of Times, Places, and Perſons. You ſee we are now in peace, almoſt through the three Nati<g ref="char:EOLhyphen"/>ons; and will you be the firſt to ſound the Trum<g ref="char:EOLhyphen"/>pet to begin a new VVar? VVould you that your Native Country ſhould ſerve as a Theater, to add a bloody Cataſtrophe, to our late paſt Trage<g ref="char:EOLhyphen"/>dies? Alas! you are all in the ſame Veſſel, in the ſame Encloſure, breathing the ſame Ayr, uſing the ſame Tongue, and the ſame Laws and Cu<g ref="char:EOLhyphen"/>ſtomes: And be aſſured, That thoſe vvhom you or your Commanders, do now repute for your Adverſaries, are your fellow Subjects, your Neighbors, your Kinsfolke, your Brethren, and and Members of the ſame Body: And though your Opinions be diverſe, touching matters of Religion, yet your VVills ſhould be united for the good of the Common-wealth. To this end, let me entreat you once more, to entreat your Offi<g ref="char:EOLhyphen"/>cers and Commanders again, and again, to aban<g ref="char:EOLhyphen"/>don all thoſe pernitious Counſels, which preſent nothing unto them, but through the falſe ſight of Opinion and Choler, and vvhich vvill plunge them into a Gulf of Miſeries at the laſt; and in<g ref="char:EOLhyphen"/>vite them all by your examples, to embrace uni<g ref="char:EOLhyphen"/>on and concord, vvhich is the foundation and root of all the reſt, the Nurſe of Peace, the Conſolation of good Subjects, and a plentiful Harveſt of all good Things.</p>
+            <p>And as for your particulars, let me ſeriouſly
+<pb n="5" facs="tcp:168556:4"/> and ſeaſonably adviſe you all, ſtill to remain in the Port of this Concord, where the State doth gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de us all, after ſo many Storms and Temp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts; and where both you and we ſhall be aſſured. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sea doth no harm to Ships that have good An<g ref="char:EOLhyphen"/>chors: Now Obedience is the Anchor which doth aſſure out Ship againſt the fury of both VVinds and VVaves; it is that which gives l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe and motion to all the members of the Body; and there is not a more certain ſigne of the life of a Common<g ref="char:EOLhyphen"/>vvealth, then this Obedience.</p>
+            <p>Let us all therefore ſtand and wait the provi<g ref="char:EOLhyphen"/>dence which almighty God hath apointed, which ordinance neither Enemies can hinder, nor Friends advance; and therefore the direction of this Truth, ought to teach you all to Sail in this Sea, every man in his Place and Office, as he ought, and ac<g ref="char:EOLhyphen"/>cording to his Degree and Command amongſt you, expecting a more happy Harbour, by the bounty and wiſdom of him that rules the VVaves of humane Confuſions, as the Soveraign Judge, holding in his hands both the hearts and the events of all things.</p>
+            <p>I ſhall conclude with the Exhortation of <hi>Moſes</hi> the General of Iſrael, to his both Spiritual and Temporal Souldiers, in theſe words, <hi>And</hi> Moſes <hi>ſaid unto the People, Fear ye not, ſtand ſtill, and ſee the ſalvation of the Lord, which he will ſhea to you to<g ref="char:EOLhyphen"/>day.</hi> Exod. 14. 13.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
